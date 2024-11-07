@@ -1,0 +1,146 @@
+Киевский#Poselenie Kievskij
+Филёвский Парк#Filevskij Park
+Новофёдоровское#Poselenie Novofedorovskoe
+Роговское#Poselenie Rogovskoe
+"Мосрентген"#Poselenie Mosrentgen
+Вороновское#Poselenie Voronovskoe
+Михайлово-Ярцевское#Poselenie Mihajlovo-Jarcevskoe
+Марушкинское#Poselenie Marushkinskoe
+Первомайское#Poselenie Pervomajskoe
+Матушкино#Matushkino
+Внуково#Vnukovo
+Савёлки#Savelki
+Внуковское#Poselenie Vnukovskoe
+Силино#Silino
+Кокошкино#Poselenie Kokoshkino
+Крюково#Krjukovo
+Щукино#Shhukino
+Краснопахорское#Poselenie Krasnopahorskoe
+Нагатинский Затон#Nagatinskij Zaton
+Старое Крюково#Staroe Krjukovo
+Клёновское#Poselenie Klenovskoe
+Дмитровский#Dmitrovskoe
+Филимонковское#Poselenie Filimonkovskoe
+Троицк#Troickij okrug
+Тёплый Стан#Teplyj Stan
+Щаповское#Poselenie Shhapovskoe
+Московский#Poselenie Moskovskij
+Десёновское#Poselenie Desjonovskoe
+Ховрино#Hovrino
+Ломоносовский#Lomonosovskoe
+Можайский#Mozhajskoe
+Ново-Переделкино#Novo-Peredelkino
+Строгино#Strogino
+Молжаниновский#Molzhaninovskoe
+Митино#Mitino
+Куркино#Kurkino
+Крылатское#Krylatskoe
+Солнцево#Solncevo
+Сосенское#Poselenie Sosenskoe
+Воскресенское#Poselenie Voskresenskoe
+Головинский#Golovinskoe
+Южное Тушино#Juzhnoe Tushino
+Северное Тушино#Severnoe Tushino
+Черёмушки#Cheremushki
+Покровское-Стрешнево#Pokrovskoe Streshnevo
+Хорошёво-Мнёвники#Horoshevo-Mnevniki
+Очаково-Матвеевское#Ochakovo-Matveevskoe
+Тропарёво-Никулино#Troparevo-Nikulino
+Левобережный#Levoberezhnoe
+Фили-Давыдково#Fili Davydkovo
+Обручевский#Obruchevskoe
+Рязановское#Poselenie Rjazanovskoe
+Раменки#Ramenki
+Войковский#Vojkovskoe
+Сокол#Sokol
+Западное Дегунино#Zapadnoe Degunino
+Проспект Вернадского#Prospekt Vernadskogo
+Южное Бутово#Juzhnoe Butovo
+Ясенево#Jasenevo
+Дорогомилово#Dorogomilovo
+Коньково#Kon'kovo
+Хорошёвский#Horoshevskoe
+Беговой#Begovoe
+Коптево#Koptevo
+Щербинка#Poselenie Shherbinka
+Аэропорт#Ajeroport
+Пресненский#Presnenskoe
+Северный#Severnoe
+Бескудниковский#Beskudnikovskoe
+Гагаринский#Gagarinskoe
+Тимирязевский#Timirjazevskoe
+Северное Бутово#Severnoe Butovo
+Лианозово#Lianozovo
+Хамовники#Hamovniki
+Восточное Дегунино#Vostochnoe Degunino
+Савёловский#Savelovskoe
+Академический#Akademicheskoe
+Зюзино#Zjuzino
+Алтуфьевский#Altuf'evskoe
+Марфино#Marfino
+Чертаново Центральное#Chertanovo Central'noe
+Отрадное#Otradnoe
+Арбат#Arbat
+Чертаново Южное#Chertanovo Juzhnoe
+Бутырский#Butyrskoe
+Тверской#Tverskoe
+Чертаново Северное#Chertanovo Severnoe
+Якиманка#Jakimanka
+Котловка#Kotlovka
+Останкинский#Ostankinskoe
+Донской#Donskoe
+Бибирево#Bibirevo
+Бирюлёво Западное#Birjulevo Zapadnoe
+Марьина Роща#Mar'ina Roshha
+Нагорный#Nagornoe
+Свиблово#Sviblovo
+Даниловский#Danilovskoe
+Мещанский#Meshhanskoe
+Южное Медведково#Juzhnoe Medvedkovo
+Замоскворечье#Zamoskvorech'e
+Северное Медведково#Severnoe Medvedkovo
+Нагатино-Садовники#Nagatino-Sadovniki
+Москворечье-Сабурово#Moskvorech'e-Saburovo
+Царицыно#Caricyno
+Басманный#Basmannoe
+Красносельский#Krasnosel'skoe
+Ростокино#Rostokino
+Таганский#Taganskoe
+Алексеевский#Alekseevskoe
+Сокольники#Sokol'niki
+Бирюлёво Восточное#Birjulevo Vostochnoe
+Бабушкинский#Babushkinskoe
+Южнопортовый#Juzhnoportovoe
+Ярославский#Jaroslavskoe
+Печатники#Pechatniki
+Богородское#Bogorodskoe
+Метрогородок#Metrogorodok
+Лефортово#Lefortovo
+Орехово-Борисово Северное#Orehovo-Borisovo Severnoe
+Лосиноостровский#Losinoostrovskoe
+Нижегородский#Nizhegorodskoe
+Перово#Perovo
+Орехово-Борисово Южное#Orehovo-Borisovo Juzhnoe
+Марьино#Mar'ino
+Вешняки#Veshnjaki
+Преображенское#Preobrazhenskoe
+Соколиная Гора#Sokolinaja Gora
+Люблино#Ljublino
+Текстильщики#Tekstil'shhiki
+Братеево#Brateevo
+Зябликово#Zjablikovo
+Рязанский#Rjazanskij
+Измайлово#Izmajlovo
+Новогиреево#Novogireevo
+Кузьминки#Kuz'minki
+Гольяново#Gol'janovo
+Северное Измайлово#Severnoe Izmajlovo
+Капотня#Kapotnja
+Выхино-Жулебино#Vyhino-Zhulebino
+Восточный#Vostochnoe
+Восточное Измайлово#Vostochnoe Izmajlovo
+Ивановское#Ivanovskoe
+Косино-Ухтомский#Kosino-Uhtomskoe
+Новокосино#Novokosino
+Некрасовка#Nekrasovka
+Кунцево#Kuncevo
