@@ -37,7 +37,6 @@ main_cols = ['full_sq', 'life_sq', 'floor', 'max_floor', 'build_year', 'kitch_sq
 model = pickle.load(open("rmsle.dat", "rb"))
 st.header("Предсказание цен на недвижимость", divider="gray")
 st.image("kreml.png")
-st.write("""hehehe """)
 st.map(gdf)
 price = model.predict(user_input_features())[0]
 st.write(price)
